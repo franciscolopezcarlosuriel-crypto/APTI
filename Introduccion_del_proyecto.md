@@ -1,0 +1,12 @@
+# Introducción del Proyecto
+## Proyecto: Query & Coffee
+
+La alimentación dentro del entorno universitario es un factor crítico que impacta directamente en el bienestar, la salud y el rendimiento académico de la comunidad estudiantil y docente. En la Escuela Superior de Cómputo (ESCOM) del Instituto Politécnico Nacional (IPN), el servicio de comedores y cafeterías es proporcionado a través de concesiones otorgadas a terceros (personas físicas o morales). Durante los últimos años, la calidad, la higiene y la relación costo-beneficio de estos servicios han sido tema de debate constante entre los alumnos, evidenciando una necesidad latente de mejora y supervisión continua.
+
+Actualmente, las autoridades de la ESCOM no cuentan con un mecanismo estandarizado, dinámico y basado en datos para evaluar el desempeño de los concesionarios desde la perspectiva del usuario final. Esta carencia de información centralizada dificulta la toma de decisiones objetivas respecto a la exigencia de mejoras, o en su caso, la renovación o revocación de los permisos de uso de los espacios físicos institucionales.
+
+El proyecto **"Query & Coffee"** nace como una solución tecnológica y analítica a esta problemática. Se trata de una iniciativa enfocada en la creación de un ecosistema integral de datos diseñado para capturar la voz de la comunidad de la ESCOM de manera digital, anónima y estructurada. Mediante el uso de encuestas digitales desplegadas estratégicamente, técnicas de procesamiento de datos (ETL) y análisis estadístico exploratorio (EDA), el proyecto transformará la percepción subjetiva de alumnos y personal en Indicadores Clave de Desempeño (KPIs) medibles y confiables.
+
+El producto final de "Query & Coffee" será un Dashboard Interactivo de Inteligencia de Negocios (Business Intelligence), el cual proporcionará a las autoridades institucionales una visualización clara y ágil del rendimiento comparativo entre la cafetería central y las barras de café (por ejemplo, el Edificio 5). 
+
+Esta herramienta empoderará a la administración de la escuela dotándola de argumentos cuantitativos y estadísticamente válidos para evaluar el servicio. De esta manera, se promoverá un entorno de transparencia donde las decisiones sobre las concesiones de alimentos se tomen con base en evidencia sólida, garantizando el respeto a la economía estudiantil y velando por el bienestar, la salud y la satisfacción de toda la comunidad politécnica.
