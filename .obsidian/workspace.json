@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan_de_Comunicacion.md",
+                "file": "Acta_de_Cierre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan_de_Comunicacion"
+              "title": "Acta_de_Cierre"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan_de_Comunicacion.md",
+                "file": "Acta_de_Cierre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Plan_de_Comunicacion"
+              "title": "Enlaces entrantes de Acta_de_Cierre"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan_de_Comunicacion.md",
+                "file": "Acta_de_Cierre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Plan_de_Comunicacion"
+              "title": "Enlaces salientes de Acta_de_Cierre"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan_de_Comunicacion.md",
+                "file": "Acta_de_Cierre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Plan_de_Comunicacion"
+              "title": "Esquema de Acta_de_Cierre"
             }
           }
         ]
@@ -185,9 +185,15 @@
   },
   "active": "759a22c706cf95ec",
   "lastOpenFiles": [
-    "Plan_de_Riesgos.md",
+    "Lecciones_Aprendidas.md",
+    "PUNTOS A DESARROLLAR PARA EL PROYECTO FINAL.pdf",
     "Presupuesto.md",
+    "Fase_de_Diseno.md",
     "Plan_de_Comunicacion.md",
+    "Acta_de_Cierre.md",
+    "diseno (1).pdf",
+    "diseno.pdf",
+    "Plan_de_Riesgos.md",
     "Introduccion_del_proyecto.md",
     "Handoff_QueryCoffee.md",
     "Estrategias_Ajustadas_Riesgos.md",
@@ -202,9 +208,6 @@
     "~$Riesgos.xlsm",
     "~$Riesgos_Final.xlsm",
     "Estudio_Factibilidad_QueryCoffee (2).pdf",
-    "Riesgos_Final.xlsm",
-    "Presupuestos  (1).xlsm",
-    "Presupuestos .xlsm",
-    "CFCADD20"
+    "Riesgos_Final.xlsm"
   ]
 }
