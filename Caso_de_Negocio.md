@@ -29,7 +29,7 @@ Aún teniendo un sustento para abordar este tema no contamos con una publicació
 Esta propuesta no solo busca analizar objetivamente las condiciones actuales, sino también generar insights estratégicos que sustenten la planeación y optimización del servicio. De este modo, se aspira a fortalecer la credibilidad de las cafeterías, promoviendo un entorno universitario basado en la confianza y el bienestar de la comunidad.
 
 ### Justificación Económica y Estudio de Mercado (NUEVO)
-El desarrollo de este proyecto opera con una inversión inicial de $60,000.00 MXN destinada a equipamiento técnico. Aunque el proyecto es de carácter consultivo, su retorno de inversión (ROI) es altamente justificable desde el punto de vista del bienestar estudiantil y la gestión administrativa. 
+El desarrollo de este proyecto opera con un costo total estimado en $546,626.55 MXN (distribuido en costos operativos de personal especializado y costos tecnológicos de hardware, software y nube). Aunque el proyecto es de carácter consultivo, su retorno de inversión (ROI) es altamente justificable: una solución de este nivel solicitada a consultoras externas superaría el millón de pesos, mientras que realizarlo internamente con perfiles de ESCOM asegura viabilidad, pertinencia y ahorro institucional.
 
 Un estudio de mercado preliminar dentro del ecosistema universitario indica que el estudiante y docente promedio realiza un gasto constante en alimentación durante su jornada académica. Si las concesiones internas no ofrecen calidad o higiene, la comunidad busca opciones externas o informales, lo que representa una fuga de capital para la economía interna de la escuela y un aumento en el riesgo de enfermedades gastrointestinales. Al contar con un *Dashboard Interactivo* y datos duros (ETL y EDA), la administración de ESCOM tendrá el poder de negociación necesario para exigir mejores condiciones, fundamentar la revocación de permisos a terceros (conforme a los artículos 267 y 281 del Reglamento Interno del IPN) si el servicio no es acorde a los aprovechamientos pagados, o atraer nuevos proveedores que se ajusten a la demanda real, asegurando así que los ingresos generados dentro del plantel se traduzcan en un servicio óptimo y seguro.
 
@@ -126,7 +126,7 @@ Para garantizar la viabilidad del proyecto en el tiempo establecido, no se inclu
 
 ## TIPO DE CONTRATACIÓN Y RECURSOS
 *   **Tipo de contratación:** Interna / Proyecto Institucional (Asignación interna por proyecto).
-*   **Recursos Materiales:** Presupuesto de $60,000.00 destinados a equipamiento técnico (computadoras).
+*   **Presupuesto Total:** $546,626.55 MXN (Costos Operativos y Tecnológicos).
 
 ---
 

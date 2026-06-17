@@ -13,9 +13,9 @@ El cronograma está alineado con las 5 fases principales del ciclo de vida del p
 4.  **Fase de Monitoreo y Control**
 5.  **Fase de Cierre** (Entregables finales programados para el 19 de julio de 2026, según la Restricción de Tiempo).
 
-### Documento Validado
-Para visualizar el diagrama de Gantt interactivo, las holguras y la asignación detallada de horas-hombre, por favor consulte el archivo original:
+### Documento Validado y Ruta Crítica
+La planificación temporal definitiva se gestiona mediante el archivo fuente **🔗 [Cronograma proyecto final (1).mpp](file:///c:/APTI/Cronograma%20proyecto%20final%20(1).mpp)**. 
 
-**🔗 [Cronograma proyecto final (1).mpp](file:///c:/APTI/Cronograma%20proyecto%20final%20(1).mpp)**
+Este archivo, desarrollado en Microsoft Project, es el núcleo del control de tiempos. Contiene el diagrama de Gantt interactivo, la definición de las dependencias lógicas entre tareas, el cálculo algorítmico de la Ruta Crítica y las holguras disponibles, proyectando así de manera oficial la fecha inamovible de entrega final para el 19 de julio de 2026. 
 
 *(Nota: Para abrir este archivo se requiere Microsoft Project u otro visor de archivos .mpp compatible).*

@@ -51,18 +51,12 @@ Se implementa una estructura jerárquica y orientada a proyectos. Se han realiza
 
 **9. Análisis de Factibilidad**
 *   **Técnica:** Alta. El equipo domina las tecnologías (Python, SQL, herramientas BI) y los requerimientos computacionales se cubren con el presupuesto asignado.
-*   **Económica:** Factible. El presupuesto de $60,000.00 MXN está justificado por el alto retorno de inversión administrativo al prevenir fugas de capital y mejorar el ecosistema institucional.
+*   **Económica:** Factible. El costo total estimado de $546,626.55 MXN está plenamente justificado frente a soluciones empresariales externas, maximizando los recursos y el talento interno para lograr un alto retorno de inversión administrativo.
 *   **Operativa:** Alta, siempre que se cuente con la permisividad institucional (supuesto validado) para colocar códigos QR.
 
 **10. Matriz RACI**
-Roles y responsabilidades claramente definidos entre los stakeholders del proyecto para las actividades clave. 
-*(Documento ya validado y referenciado como anexo: [MATRIZ-RACI_QUERY&COFFE.xlsx](file:///c:/APTI/MATRIZ-RACI_QUERY&COFFE%20%20(1).xlsx))*
+La asignación de responsabilidades se gestiona a través del archivo **[MATRIZ-RACI_QUERY&COFFE (1).xlsx](file:///c:/APTI/MATRIZ-RACI_QUERY&COFFE%20%20(1).xlsx)**. Este libro de Excel funciona como la herramienta principal de gestión humana que detalla los niveles de interacción de cada rol dentro del equipo para cada tarea. Define con precisión quién es Responsable (R), Aprobador (A), Consultado (C) o Informado (I) en cada entregable, evitando duplicidad de esfuerzos y asegurando claridad operativa.
 
 **11. EDT (Estructura de Desglose del Trabajo)**
-El proyecto se divide en 5 grandes fases:
-1.  **Inicio** (Problema, Objetivos, Equipo)
-2.  **Planeación** (Metodología, Cronograma, Diseño de Encuestas)
-3.  **Ejecución** (Aplicación, Recopilación ETL, Análisis EDA)
-4.  **Monitoreo** (Validación de datos, Ajustes metodológicos)
-5.  **Cierre** (Resultados finales, Reportes, Documento final)
-*(Detalles consolidados en anexos: [Diagrama.pdf](file:///c:/APTI/Diagrama.pdf) y [Diccionario de EDT (1).xlsx](file:///c:/APTI/Diccionario%20de%20EDT%20.xlsx))*
+El alcance total del proyecto se subdivide jerárquicamente en 5 grandes fases (Inicio, Planeación, Ejecución, Monitoreo y Cierre), las cuales pueden visualizarse de forma gráfica en el **[Diagrama.pdf](file:///c:/APTI/Diagrama.pdf)**. 
+Para comprender a detalle cada paquete de trabajo, se debe consultar el **[Diccionario de EDT (1).xlsx](file:///c:/APTI/Diccionario%20de%20EDT%20(1).xlsx)**. Este archivo de Excel provee una descripción técnica profunda, los criterios de aceptación, suposiciones, dependencias directas y responsables técnicos de cada tarea desglosada.
